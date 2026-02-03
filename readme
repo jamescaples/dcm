@@ -1,0 +1,20 @@
+# Double Consciousness Media (DCM)
+
+Official website for **Double Consciousness Media** — a digital strategy and technical SEO consultancy.
+
+## 🚀 Services
+- Technical SEO & Site Hygiene
+- Local SEO & Google Business Profile Optimization
+- Paid Search & Performance Media
+- Digital Strategy & Analytics Dashboards
+
+## 📦 Built With
+- React + Vite
+- Tailwind CSS
+- Deployed via GitHub Pages / Vercel
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
